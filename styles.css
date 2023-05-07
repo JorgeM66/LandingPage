@@ -1,7 +1,5 @@
 #logo{
-    height: 65px;
-   justify-content: center;
-   align-items: center;
+   height: 78px;
    padding-bottom: 2px;
 }
 
@@ -16,5 +14,27 @@
 }
 
 nav a{
-    font-weight: 501;
+    font-weight: 500;
+}
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* padding: 0%;
+    margin: 0%; */
+}
+
+.res-img{
+    width: 100%;
+    padding: 0;
+}
+
+.text-up{
+    padding-bottom: 15px;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }

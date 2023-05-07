@@ -32,9 +32,16 @@ body{
     padding-bottom: 15px;
 }
 
-.header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.bg-non{
+    background: #ffffff;
+}
 
+#button-send{
+    padding: 3px;
+}
+
+.font-color{
+    color: white;
+    font-weight: 500;
+    justify-content: center;
 }

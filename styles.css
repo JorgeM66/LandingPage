@@ -1,5 +1,5 @@
 #logo{
-   height: 78px;
+   height: 70px;
    padding-bottom: 2px;
 }
 
@@ -32,16 +32,43 @@ body{
     padding-bottom: 15px;
 }
 
+.text-down{
+    padding-top: 6px;
+    margin: 10px;
+}
+
 .bg-non{
     background: #ffffff;
 }
 
 #button-send{
     padding: 3px;
+    display: block;
+    text-decoration: none;
 }
 
 .font-color{
     color: white;
     font-weight: 500;
     justify-content: center;
+}
+
+.products{
+    gap: 15px;
+}
+
+.font-title{
+    font-weight: 800;
+}
+
+.margen{
+    margin: 10px;
+}
+
+.space-foot{
+    justify-content: space-between;
+}
+
+.foot-title-text{
+    font-weight: 900px; ;
 }
